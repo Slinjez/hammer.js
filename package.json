@@ -49,10 +49,10 @@
     "lodash-compat": "^3.10.2",
     "node-qunit-phantomjs": "^1.4.0",
     "qunitjs": "^2.0.0",
-    "rollup": "^0.59.4",
+    "rollup": "^4.22.5",
     "rollup-plugin-babel": "^3.0.4",
     "run-when-changed": "^2.1.0",
-    "serve": "^1.4.0",
+    "serve": "^14.2.3",
     "uglify-js": "^3.4.0"
   },
   "main": "hammer.js",
